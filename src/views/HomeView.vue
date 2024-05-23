@@ -68,8 +68,10 @@
    </script>
    
    <style>
-   
- 
+
+   body {
+    background-color: #F5EBDC ;
+   }
 
    span {
      color: #D42401;

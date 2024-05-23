@@ -12,8 +12,8 @@
               <p class="card-description fs-6">{{ card.Description }}</p>
 
             </div>
-          <div class="mt-3">
-              <p class="card-preco">R$ <span>19</span>,90</p>
+          <div class="mt-5">
+              <p class="card-preco">R$ {{ card.price }}</p>
   
           </div>
         </div>

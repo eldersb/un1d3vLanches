@@ -34,12 +34,9 @@ return {
 </script>
 
 <style scoped>
-  @import 'bootstrap/dist/css/bootstrap.min.css';  
+   @import 'bootstrap/dist/css/bootstrap.min.css';   
 
 
+   
 
-h1 {
-color: #D42401;
-font-size: 28px
-}
 </style>
