@@ -3,7 +3,7 @@
 
         <div class="container">
 
-            <nav class="d-flex justify-content-center align-items-center mt-5 gap-2">
+            <nav class="d-flex justify-content-center align-items-center mt-2 gap-2">
             <img src="../assets/logo-hamburguer.png" alt="...">
             <div>
               <h1>UN1D3V Lanches</h1>
@@ -19,6 +19,9 @@
 
 <style>
 
+.nav {
+  background-color: #F5EBDC;
+}
 
 h1 {
   color: #D42401;

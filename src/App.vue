@@ -37,9 +37,6 @@ return {
   @import 'bootstrap/dist/css/bootstrap.min.css';  
 
 
-body {
-background-color: red;
-}
 
 h1 {
 color: #D42401;

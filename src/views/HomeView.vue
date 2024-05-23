@@ -13,11 +13,11 @@
    
          <section class="mt-5">
 
-          <article class="row row-cols-1 row-cols-md-3 g-5 r">
+          <article class="row row-cols-1 row-cols-md-3 g-5">
 
             <template v-for="card in allCards" :key="card.id">
   
-              <CardComponente :card="card" class="mb-5" />
+              <CardComponente :card="card" class=" mb-5" />
             </template>
           </article>
    
@@ -69,9 +69,7 @@
    
    <style>
    
-   body {
-    background-color:#F5EBDC ;
-   }
+ 
 
    span {
      color: #D42401;

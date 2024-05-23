@@ -17,6 +17,8 @@
 
 
 .rodape {
+    background-color: #F5EBDC;
+
 
 width: 100%;
 font-size: 20px;
