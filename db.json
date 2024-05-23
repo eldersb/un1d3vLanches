@@ -1,0 +1,52 @@
+{
+    "devLanches": [
+      {
+          "id": 1,
+          "url":"/src/assets/BigDev.png",
+          "name": "Big Dev",
+          "Description": "Com 2 carnes",
+          "price": "19,90"
+  
+      },
+      {
+          "id": 2,
+          "url":"/src/assets/DevChicken.png",
+          "name": "DevChicken",
+          "Description": "100% Frango",
+          "price": "9,90"
+  
+      },
+      {
+          "id": 3,
+          "url":"/src/assets/DevCheddar.png",
+          "name": "Dev Cheddar",
+          "Description": "O melhor Cheddar",
+          "price": "19,90"
+  
+      },
+      {
+          "id": 4,
+          "url":"/src/assets/DevTasty.png",
+          "name": "Dev Tasty",
+          "Description": "100% Carne",
+          "price": "24,90"
+  
+      },
+      {
+          "id": 5,
+          "url":"/src/assets/DevNifico.png",
+          "name": "DevNífico",
+          "Description": "Muito Bacon",
+          "price": "19,90"
+  
+      },
+      {
+          "id": 6,
+          "url":"/src/assets/DevSquad.png",
+          "name": "DevSquad",
+          "Description": "100% Carne",
+          "price": "19,90"
+  
+      }
+    ]
+  }
