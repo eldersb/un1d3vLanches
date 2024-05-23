@@ -10,10 +10,11 @@
             <div class="div">
                 <h5 class="card-title">{{ card.name }}</h5>
               <p class="card-description fs-6">{{ card.Description }}</p>
-
+             
             </div>
-          <div class="mt-5">
-              <p class="card-preco">R$ {{ card.price }}</p>
+          <div class="mt-1">
+            <ButtonComponente />
+              <p class="card-preco mt-2">R$ {{ card.price }}</p>
   
           </div>
         </div>
@@ -26,11 +27,13 @@
 
 
 <script>
+import { Button } from 'bootstrap';
+import ButtonComponente from './ButtonComponente.vue';
 
 export default {
   name: 'CardComponente',
   components: {
-
+    ButtonComponente
   },
   data() {
     return {
