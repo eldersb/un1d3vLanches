@@ -25,4 +25,4 @@ json-server --watch db.json (rodar json serve
 > Ainda não foi implementada a função de carrinho.
 
 > [!NOTE]  
-> Erro ao carregar a imagem da api pelo deploy do vercel ainda não corrigido.
+> Erro ao carregar a imagem e do componente button pelo deploy do vercel ainda não corrigido.
