@@ -1,6 +1,6 @@
 # unid3vLanches
 
-Este é um repositório simulando uma hamburgueria, com o intuito de treinar conhecimentos do framework Vue.js.
+Este é um repositório simulando uma hamburgueria inspirando no desafio para ingresso do núcleo de desenvolvimento da UNIME, com o intuito de treinar conhecimentos do framework Vue.js. 
 
 Link do vercel: https://un1d3v-lanches.vercel.app/
 
