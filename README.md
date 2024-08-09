@@ -1,7 +1,28 @@
-# Vue 3 + Vite
+# unid3vLanches
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este é um repositório simulando uma hamburgueria, com o intuito de treinar conhecimentos do framework Vue.js.
 
-## Recommended IDE Setup
+Link do vercel: https://un1d3v-lanches.vercel.app/
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## Tecnologias Utilizadas
+* HTML
+* CSS
+* JS
+* Vue.js
+* Axios
+* API Json Serve
+
+# Para rodar o projeto utilize
+```
+npm run dev (para rodar o servidor do vue)
+json-server --watch db.json (rodar json serve
+```
+
+# Imagem do projeto
+![unidevlanches](https://github.com/user-attachments/assets/dabcf52f-7643-4450-88fe-b59a3f8f2629)
+
+> [!NOTE]  
+> Ainda não foi implementada a função de carrinho.
+
+> [!NOTE]  
+> Erro ao carregar a imagem da api pelo deploy do vercel ainda não corrigido.
